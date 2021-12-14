@@ -1,3 +1,3 @@
 # melody
 Учебный проект GLO Academy
-# Проект выполнил Bekzod Dev
+### Проект выполнил Bekzod Developer
